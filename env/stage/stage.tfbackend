@@ -1,0 +1,3 @@
+bucket = "nagmce-tfstate"
+key            = "cribl/stage/terraform.tfstate"
+region         = "us-east-1"
