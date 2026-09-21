@@ -1,0 +1,3 @@
+bucket = "cribl-tfstate"
+key            = "cribl/dev/terraform.tfstate"
+region         = "us-east-1"
